@@ -1,12 +1,11 @@
 # lottoGame
-The lottoGame is a C-based application designed as part of a university assignment, offering a simulated lotto experience. This program combines functionality and interactivity, allowing users to manage, sort, and check winning combinations of lotto numbers.
+The lottoGame is a C-based application meticulously crafted as part of a university assignment, delivering a simulated lotto experience within the confines of the terminal (CLI). This program seamlessly combines functionality and interactivity, empowering users to efficiently manage, sort, and check winning combinations of lotto numbers, all within the familiar command-line environment.
 
 ## Technologies Used:
 C, Sorting Algorithms
 
 ## Key Functions:
 ### 1. Number Input and Validation:
-
 Users can input a specified number of lotto numbers.
 The program validates the entered numbers and stores them in an array.
 This step is crucial as it sets the foundation for subsequent functions.
